@@ -4,16 +4,6 @@
 
 A detail-oriented and motivated individual with internship experience as a Junior Programmer. Experienced in developing web-based applications, managing data, and creating administrative systems. Currently seeking opportunities in Administration, Data Entry, and Entry-Level IT positions.
 
-## 🛠 Skills & Tools
-
-### Skills
-- Data Entry
-- Data Management
-- Microsoft Excel
-- Web Development
-- CRUD Development
-- Database Management
-
 ### Technologies & Tools
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
