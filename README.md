@@ -18,8 +18,14 @@ A detail-oriented and motivated individual with internship experience as a Junio
 
 ### AI Tools
 
-**ChatGPT** · **Google Gemini** · **DeepSeek**
+<p>
+  <img src="https://img.icons8.com/color/48/chatgpt.png" width="40" />
+  <img src="https://img.icons8.com/color/48/google-gemini.png" width="40" />
+  <img src="https://img.icons8.com/color/48/deepseek.png" width="40" />
+</p>
 
 ### Productivity
 
-**Microsoft Excel**
+<p>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" />
+</p>
