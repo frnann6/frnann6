@@ -23,9 +23,3 @@ A detail-oriented and motivated individual with internship experience as a Junio
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" alt="Gemini" />
   <img src="https://img.icons8.com/color/48/deepseek.png" width="40" />
 </p>
-
-### Productivity
-
-<p>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" />
-</p>
